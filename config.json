@@ -1,0 +1,31 @@
+{
+  "mainServerId": "494532701345284098",
+  "prefix": "!",
+  "devId": "324416295120404480",
+  "roles": {
+    "inVoice": "744847923208126484",
+    "donator": "744567371905368177"
+  },
+  "channels": {
+    "hub": "735802870737403904",
+    "commands": "735802932707983411",
+    "privatesCategory": "735804799613796372",
+    "createPrivateChannel": "735804848842211359"
+  },
+  "statistics": {
+    "totalMembers": "735805222991036446",
+    "totalVerifiedMembers": "735805284378738779",
+    "onlineMembers": "735805361105141770",
+    "voiceOnlineMembers": "735805418353328140"
+  },
+  "colors": {
+    "red": "#ff4343",
+    "orange": "#ffb161",
+    "purple": "#ec54ff",
+    "lime": "#96f271"
+  },
+  "privates": {
+    "discordBotToken": "NTAzMjY3ODMzMzk2OTg1ODgw.Xxlblg.VtO3Bggb-jiFbm1Ogw3kk9JM3zY",
+    "teslaCatBotPass": "123a890x4567e"
+  }
+}
